@@ -25,9 +25,24 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
+## What was used
+- JavaScript  
+- Node.js  
+- Inquirer 
+- MySQL
+
+
+## Installation 
+- package.json: npm init -y  
+- inquirer: npm i inquirer@8.2.4
+- MySQL2: npm i mysql2
+- console.table: npm i console.table
+
+
 ## Walkthrough Video
 https://drive.google.com/file/d/1XHTIiAHNnJBL0x_vfPjUtBl3TXC0xOB2/view
 
 
-Contributors
+
+## Contributors
 Marco Saverino,
